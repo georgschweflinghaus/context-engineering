@@ -1,5 +1,8 @@
 # Sources, links, papers on Context Engineering (CE)
 
+## Phil Schmid - The New Skill in AI is Not Prompting, It's Context Engineering
+[CE the new Skill in AI](https://www.philschmid.de/context-engineering)
+
 ## Yichao 'Peak' Ji
 [Manus - Context Engineering Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 
